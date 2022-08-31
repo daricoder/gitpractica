@@ -1,3 +1,9 @@
 hola como estas
 putito[cambio de prueba2]
 [adicion de prueba2]
+hola hola[ esta linea de holas es de prueba 2]
+hola hola hola [ esta linea de holas es de prueba2]
+hola hola hola hola hola [ esta linea de holas es de prueba2]
+hola hola hola hola hola hola hola[ esta linea de holas es de prueba2]
+
+agregando linea carajo[ agregando linea prueba2]
